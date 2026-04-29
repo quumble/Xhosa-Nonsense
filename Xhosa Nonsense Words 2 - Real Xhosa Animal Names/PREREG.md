@@ -278,5 +278,5 @@ prereg-committed value preserved.
 - `test_coder.py` — unit tests (6/6 passing at lock)
 - `PREREG.md` — this file
 
-Commit hash / timestamp at prereg lock-in:
-*[fill in when pushed to GitHub]*
+Commit hash / timestamp at prereg lock-in: Hash added after running, sorry
+*1f151fe89258152a9f7a9285fe87a7fdcbd2b82f* 
