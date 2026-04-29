@@ -265,4 +265,4 @@ H1–H5 evaluation.
 - `README.md` — operational documentation
 
 Commit hash / timestamp of these files at prereg lock-in:
-*[fill in when pushed to GitHub]*
+152520516327ef7e19af99e57b3006355d6fbc93
