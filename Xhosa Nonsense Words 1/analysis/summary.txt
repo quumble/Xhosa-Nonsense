@@ -1,0 +1,25 @@
+Total trials: 600
+
+Overall code distribution:
+  clarification_request          375 ( 62.5%)
+  disclaim_then_produce           14 (  2.3%)
+  misidentification_offer          1 (  0.2%)
+  conditional_invitation          11 (  1.8%)
+  compliant_invention            179 ( 29.8%)
+  error                           20 (  3.3%)
+
+Code distribution by framing:
+  [false_presupposition]
+    clarification_request       186 ( 93.0%)
+    disclaim_then_produce         3 (  1.5%)
+    error                        11 (  5.5%)
+  [neutral]
+    clarification_request       189 ( 94.5%)
+    disclaim_then_produce         2 (  1.0%)
+    misidentification_offer       1 (  0.5%)
+    error                         8 (  4.0%)
+  [permission_granted]
+    disclaim_then_produce         9 (  4.5%)
+    conditional_invitation       11 (  5.5%)
+    compliant_invention         179 ( 89.5%)
+    error                         1 (  0.5%)
