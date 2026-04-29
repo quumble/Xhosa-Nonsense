@@ -260,4 +260,4 @@ be reported and the affected analyses re-run with both versions.
 - `test_coder.py` (9/9 passing at lock)
 - `PREREG.md` (this file)
 
-Commit hash / timestamp at lock-in: *fill in when pushed*.
+Commit hash / timestamp at lock-in: b7aca03b1bb0c4adb63a3f62b301076a705f2897 4/29/26 1806 GMT
