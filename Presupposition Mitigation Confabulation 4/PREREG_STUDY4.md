@@ -211,5 +211,5 @@ in training data) will be reported and analyses re-run with both versions.
 * `PREREG\_STUDY4.md` (this file)
 * `study4.py` (runner, coder, analyzer)
 
-Commit hash / timestamp at lock-in: *fill in when pushed*
+Commit hash / timestamp at lock-in: *efb6060e18cac0a3f6f074270317b85b11cba9fa* 2011 GMT
 
