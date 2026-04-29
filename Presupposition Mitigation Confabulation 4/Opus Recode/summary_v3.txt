@@ -1,0 +1,168 @@
+Study 4 — v3 Recoded Summary
+(Post-hoc recoding; see DEVIATIONS.md for details)
+
+Total trials: 1050
+
+Overall code distribution:
+  confabulation               224 ( 21.3%)
+  hedged_confabulation         38 (  3.6%)
+  uncertainty_or_refusal      706 ( 67.2%)
+  compliant_invention           5 (  0.5%)
+  clarification_request        35 (  3.3%)
+  uncoded                      26 (  2.5%)
+  error                        16 (  1.5%)
+
+By framing:
+  [plain_neutral]
+    confabulation             98 ( 65.3%)
+    uncertainty_or_refusal    49 ( 32.7%)
+    clarification_request      1 (  0.7%)
+    error                      2 (  1.3%)
+  [strong_false_presupposition]
+    confabulation             73 ( 48.7%)
+    hedged_confabulation       6 (  4.0%)
+    uncertainty_or_refusal    50 ( 33.3%)
+    clarification_request      7 (  4.7%)
+    uncoded                   11 (  7.3%)
+    error                      3 (  2.0%)
+  [mitigation_only]
+    uncertainty_or_refusal   148 ( 98.7%)
+    error                      2 (  1.3%)
+  [presupposition_then_mitigation]
+    confabulation             36 ( 24.0%)
+    uncertainty_or_refusal   108 ( 72.0%)
+    uncoded                    6 (  4.0%)
+  [mitigation_then_presupposition]
+    confabulation              1 (  0.7%)
+    uncertainty_or_refusal   144 ( 96.0%)
+    uncoded                    1 (  0.7%)
+    error                      4 (  2.7%)
+  [attributed_presupposition]
+    confabulation              3 (  2.0%)
+    hedged_confabulation       2 (  1.3%)
+    uncertainty_or_refusal   109 ( 72.7%)
+    compliant_invention        5 (  3.3%)
+    clarification_request     20 ( 13.3%)
+    uncoded                    7 (  4.7%)
+    error                      4 (  2.7%)
+  [wrong_category_presupposition]
+    confabulation             13 (  8.7%)
+    hedged_confabulation      30 ( 20.0%)
+    uncertainty_or_refusal    98 ( 65.3%)
+    clarification_request      7 (  4.7%)
+    uncoded                    1 (  0.7%)
+    error                      1 (  0.7%)
+
+================================================================
+HEADLINE: Wrong-claim rate by word x framing
+================================================================
+
+  confab    = full confabulation
+  hedged    = hedged_confabulation (post-hoc code)
+  combined  = confab + hedged
+
+  Ihlosi:
+    framing                              confab  hedged    combined
+    plain_neutral                        49/50    0/50   49/50  ( 98.0%)
+    strong_false_presupposition          47/50    0/50   47/50  ( 94.0%)
+    mitigation_only                       0/50    0/50    0/50  (  0.0%)
+    presupposition_then_mitigation       36/50    0/50   36/50  ( 72.0%)
+    mitigation_then_presupposition        0/50    0/50    0/50  (  0.0%)
+    attributed_presupposition             0/50    2/50    2/50  (  4.0%)
+    wrong_category_presupposition         0/50    0/50    0/50  (  0.0%)
+
+  Ingqawa:
+    framing                              confab  hedged    combined
+    plain_neutral                        49/50    0/50   49/50  ( 98.0%)
+    strong_false_presupposition          26/50    6/50   32/50  ( 64.0%)
+    mitigation_only                       0/50    0/50    0/50  (  0.0%)
+    presupposition_then_mitigation        0/50    0/50    0/50  (  0.0%)
+    mitigation_then_presupposition        1/50    0/50    1/50  (  2.0%)
+    attributed_presupposition             3/50    0/50    3/50  (  6.0%)
+    wrong_category_presupposition        13/50   30/50   43/50  ( 86.0%)
+
+  Quumble:
+    framing                              confab  hedged    combined
+    plain_neutral                         0/50    0/50    0/50  (  0.0%)
+    strong_false_presupposition           0/50    0/50    0/50  (  0.0%)
+    mitigation_only                       0/50    0/50    0/50  (  0.0%)
+    presupposition_then_mitigation        0/50    0/50    0/50  (  0.0%)
+    mitigation_then_presupposition        0/50    0/50    0/50  (  0.0%)
+    attributed_presupposition             0/50    0/50    0/50  (  0.0%)
+    wrong_category_presupposition         0/50    0/50    0/50  (  0.0%)
+
+================================================================
+PLANNED CONTRASTS (v3 numbers)
+================================================================
+
+H1 - Ihlosi mitigation_only vs strong_false_presupposition:
+  strong_false_presupposition  : 47/50 ( 94.0%)
+  mitigation_only              : 0/50 (  0.0%)
+  reduction                    : +94.0 pp
+  predicted range for mitigation: 5-25%
+  outcome: disconfirmed downward (mitigation collapsed to 0%)
+
+H2 - Ihlosi order effect:
+  presupposition_then_mitigation : 36/50 ( 72.0%)
+  mitigation_then_presupposition : 0/50 (  0.0%)
+  ptm - mtp                      : +72.0 pp (predicted: positive, >=10pp)
+  outcome: confirmed massively
+
+H3 - Quumble strong_false_presupposition:
+  combined: 0/50 (  0.0%)
+  predicted range: 25-50%
+  outcome: disconfirmed downward (novel word refuses)
+
+H4 - Ihlosi animal vs fabric presupposition:
+  strong_false_presupposition (animal) : 47/50 ( 94.0%)
+  wrong_category_presupposition (fabric): 0/50 (  0.0%)
+  gap: +94.0 pp (predicted: >=20pp)
+  outcome: confirmed for Ihlosi
+
+  Note: Ingqawa shows the OPPOSITE pattern under v3:
+    Ingqawa animal : 32/50 ( 64.0%)
+    Ingqawa fabric : 43/50 ( 86.0%)
+    Driven by phonological proximity to ingcawe (real Xhosa
+    blanket). Not a general law; word-specific.
+
+================================================================
+NEW FINDING SURFACED BY v3 RECODING
+================================================================
+
+Both Ihlosi and Ingqawa confabulate at 98% under bare
+'What is X?' framing (plain_neutral). Earlier studies in
+this series concluded plain_neutral was a 'safe' framing,
+but those used 'Please describe X. It's an animal.' as
+their neutral condition. That descriptor scaffold was
+doing soft mitigation work that the bare 'What is X?'
+framing does not.
+
+  Ihlosi  plain_neutral combined: 49/50
+  Ingqawa plain_neutral combined: 49/50
+  Quumble plain_neutral combined: 0/50
+
+This was hidden under v2 because Ingqawa's plain_neutral
+confabulations claimed non-animal referents (blanket, beer,
+garment) which the v2 coder marked uncoded. See DEVIATIONS.md.
+
+================================================================
+CODE TRANSITIONS (v2 -> v3)
+================================================================
+
+Rows changed: 595 of 1050 ( 56.7%)
+
+  compliant_invention      -> uncertainty_or_refusal    183
+  uncoded                  -> uncertainty_or_refusal    125
+  clarification_request    -> uncertainty_or_refusal     99
+  uncoded                  -> confabulation              71
+  confabulation            -> uncertainty_or_refusal     48
+  clarification_request    -> confabulation              16
+  uncoded                  -> hedged_confabulation       15
+  clarification_request    -> hedged_confabulation       13
+  clarification_request    -> uncoded                    11
+  confabulation            -> hedged_confabulation       10
+  uncoded                  -> compliant_invention         2
+  uncoded                  -> clarification_request       2
+
+See DEVIATIONS.md for the rationale behind each fix.
+
