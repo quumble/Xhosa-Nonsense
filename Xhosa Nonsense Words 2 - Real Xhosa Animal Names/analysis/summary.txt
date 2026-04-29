@@ -1,0 +1,42 @@
+Total trials: 600
+
+Overall code distribution:
+  factual_description            260 ( 43.3%)
+  clarification_request          138 ( 23.0%)
+  disclaim_then_produce            4 (  0.7%)
+  misidentification_offer         32 (  5.3%)
+  meta_test_comment                1 (  0.2%)
+  conditional_invitation           1 (  0.2%)
+  compliant_invention            164 ( 27.3%)
+
+Code distribution by framing:
+  [false_presupposition]
+    factual_description         100 ( 50.0%)
+    clarification_request        46 ( 23.0%)
+    disclaim_then_produce         4 (  2.0%)
+    misidentification_offer      25 ( 12.5%)
+    compliant_invention          25 ( 12.5%)
+  [neutral]
+    factual_description         100 ( 50.0%)
+    clarification_request        92 ( 46.0%)
+    misidentification_offer       7 (  3.5%)
+    conditional_invitation        1 (  0.5%)
+  [permission_granted]
+    factual_description          60 ( 30.0%)
+    meta_test_comment             1 (  0.5%)
+    compliant_invention         139 ( 69.5%)
+
+Code distribution by familiarity:
+  [famous]
+    factual_description         213 ( 71.0%)
+    clarification_request        21 (  7.0%)
+    misidentification_offer      18 (  6.0%)
+    conditional_invitation        1 (  0.3%)
+    compliant_invention          47 ( 15.7%)
+  [obscure]
+    factual_description          47 ( 15.7%)
+    clarification_request       117 ( 39.0%)
+    disclaim_then_produce         4 (  1.3%)
+    misidentification_offer      14 (  4.7%)
+    meta_test_comment             1 (  0.3%)
+    compliant_invention         117 ( 39.0%)

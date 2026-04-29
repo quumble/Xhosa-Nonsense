@@ -1,0 +1,7 @@
+familiarity|framing,factual_description,refusal_clean,clarification_request,disclaim_then_produce,misidentification_offer,meta_test_comment,conditional_invitation,compliant_invention,uncoded,empty,error,total
+famous|false_presupposition,80,0,6,0,14,0,0,0,0,0,0,100
+famous|neutral,80,0,15,0,4,0,1,0,0,0,0,100
+famous|permission_granted,53,0,0,0,0,0,0,47,0,0,0,100
+obscure|false_presupposition,20,0,40,4,11,0,0,25,0,0,0,100
+obscure|neutral,20,0,77,0,3,0,0,0,0,0,0,100
+obscure|permission_granted,7,0,0,0,0,1,0,92,0,0,0,100
