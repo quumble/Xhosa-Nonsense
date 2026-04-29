@@ -1,0 +1,70 @@
+Total trials: 1500
+
+Overall code distribution:
+  factual_description            612 ( 40.8%)
+  confabulation                  100 (  6.7%)
+  refusal_clean                    1 (  0.1%)
+  clarification_request          426 ( 28.4%)
+  disclaim_then_produce            7 (  0.5%)
+  misidentification_offer         36 (  2.4%)
+  conditional_invitation           2 (  0.1%)
+  compliant_invention            316 ( 21.1%)
+
+By framing:
+  [false_presupposition]
+    factual_description         258 ( 51.6%)
+    confabulation                51 ( 10.2%)
+    clarification_request       150 ( 30.0%)
+    disclaim_then_produce         7 (  1.4%)
+    misidentification_offer      28 (  5.6%)
+    compliant_invention           6 (  1.2%)
+  [neutral]
+    factual_description         209 ( 41.8%)
+    confabulation                 4 (  0.8%)
+    refusal_clean                 1 (  0.2%)
+    clarification_request       276 ( 55.2%)
+    misidentification_offer       8 (  1.6%)
+    conditional_invitation        2 (  0.4%)
+  [permission_granted]
+    factual_description         145 ( 29.0%)
+    confabulation                45 (  9.0%)
+    compliant_invention         310 ( 62.0%)
+
+══════════════════════════════════════════════════
+HEADLINE: Confabulation rate by framing
+══════════════════════════════════════════════════
+  false_presupposition       51/500 ( 10.2%)
+  neutral                     4/500 (  0.8%)
+  permission_granted         45/500 (  9.0%)
+
+Confabulation rate by word × framing:
+  Ihlosi       false_presupposition    48/50 ( 96.0%)
+  Ihlosi       neutral                  0/50 (  0.0%)
+  Ihlosi       permission_granted       5/50 ( 10.0%)
+  Imbovane     false_presupposition     0/50 (  0.0%)
+  Imbovane     neutral                  0/50 (  0.0%)
+  Imbovane     permission_granted       4/50 (  8.0%)
+  Imfene       false_presupposition     0/50 (  0.0%)
+  Imfene       neutral                  0/50 (  0.0%)
+  Imfene       permission_granted       2/50 (  4.0%)
+  Impuku       false_presupposition     0/50 (  0.0%)
+  Impuku       neutral                  0/50 (  0.0%)
+  Impuku       permission_granted       1/50 (  2.0%)
+  Imvubu       false_presupposition     0/50 (  0.0%)
+  Imvubu       neutral                  0/50 (  0.0%)
+  Imvubu       permission_granted       0/50 (  0.0%)
+  Ingcuka      false_presupposition     0/50 (  0.0%)
+  Ingcuka      neutral                  4/50 (  8.0%)
+  Ingcuka      permission_granted       0/50 (  0.0%)
+  Ingqawa      false_presupposition     3/50 (  6.0%)
+  Ingqawa      neutral                  0/50 (  0.0%)
+  Ingqawa      permission_granted      32/50 ( 64.0%)
+  Inyhwagi     false_presupposition     0/50 (  0.0%)
+  Inyhwagi     neutral                  0/50 (  0.0%)
+  Inyhwagi     permission_granted       0/50 (  0.0%)
+  Iqaqa        false_presupposition     0/50 (  0.0%)
+  Iqaqa        neutral                  0/50 (  0.0%)
+  Iqaqa        permission_granted       1/50 (  2.0%)
+  Ixhwili      false_presupposition     0/50 (  0.0%)
+  Ixhwili      neutral                  0/50 (  0.0%)
+  Ixhwili      permission_granted       0/50 (  0.0%)
