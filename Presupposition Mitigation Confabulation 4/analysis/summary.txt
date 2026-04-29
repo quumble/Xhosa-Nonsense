@@ -1,0 +1,64 @@
+Total trials: 1050
+
+Overall code distribution:
+  confabulation                  195 ( 18.6%)
+  uncertainty_or_refusal         251 ( 23.9%)
+  compliant_invention            186 ( 17.7%)
+  clarification_request          172 ( 16.4%)
+  uncoded                        230 ( 21.9%)
+  error                           16 (  1.5%)
+
+========================================================
+HEADLINE: Confabulation rate by word x framing
+========================================================
+
+  Ihlosi:
+    plain_neutral                           38/50 ( 76.0%)
+    strong_false_presupposition             47/50 ( 94.0%)
+    mitigation_only                          0/50 (  0.0%)
+    presupposition_then_mitigation          35/50 ( 70.0%)
+    mitigation_then_presupposition           0/50 (  0.0%)
+    attributed_presupposition                1/50 (  2.0%)
+    wrong_category_presupposition            0/50 (  0.0%)
+
+  Ingqawa:
+    plain_neutral                            0/50 (  0.0%)
+    strong_false_presupposition             11/50 ( 22.0%)
+    mitigation_only                          0/50 (  0.0%)
+    presupposition_then_mitigation           0/50 (  0.0%)
+    mitigation_then_presupposition           0/50 (  0.0%)
+    attributed_presupposition                0/50 (  0.0%)
+    wrong_category_presupposition           15/50 ( 30.0%)
+
+  Quumble:
+    plain_neutral                            0/50 (  0.0%)
+    strong_false_presupposition              0/50 (  0.0%)
+    mitigation_only                          0/50 (  0.0%)
+    presupposition_then_mitigation           0/50 (  0.0%)
+    mitigation_then_presupposition           0/50 (  0.0%)
+    attributed_presupposition                0/50 (  0.0%)
+    wrong_category_presupposition           48/50 ( 96.0%)
+
+========================================================
+PLANNED CONTRASTS
+========================================================
+
+H1 — Ihlosi mitigation_only vs strong_false_presupposition:
+  strong_false_presupposition : 47/50 ( 94.0%)
+  mitigation_only             : 0/50 (  0.0%)
+  reduction                   : +94.0 pp
+  predicted range for mitigation: 5–25%
+
+H2 — Ihlosi order effect:
+  presupposition_then_mitigation : 35/50 ( 70.0%)
+  mitigation_then_presupposition : 0/50 (  0.0%)
+  mtp - ptm                      : -70.0 pp (predicted: positive, >=10pp)
+
+H3 — Quumble strong_false_presupposition:
+  confabulation: 0/50 (  0.0%)
+  predicted range: 25–50%
+
+H4 — Ihlosi animal vs fabric presupposition:
+  strong_false_presupposition (animal) : 47/50 ( 94.0%)
+  wrong_category_presupposition (fabric): 0/50 (  0.0%)
+  gap: +94.0 pp (predicted: >=20pp)
